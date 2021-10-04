@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/krrishnan/Cribhound/static/css/main.7bc8377e.chunk.css",
+    "main.js": "/krrishnan/Cribhound/static/js/main.5ef15123.chunk.js",
+    "main.js.map": "/krrishnan/Cribhound/static/js/main.5ef15123.chunk.js.map",
+    "runtime-main.js": "/krrishnan/Cribhound/static/js/runtime-main.b32f0bbc.js",
+    "runtime-main.js.map": "/krrishnan/Cribhound/static/js/runtime-main.b32f0bbc.js.map",
+    "static/css/2.450bcdb5.chunk.css": "/krrishnan/Cribhound/static/css/2.450bcdb5.chunk.css",
+    "static/js/2.f7d3a093.chunk.js": "/krrishnan/Cribhound/static/js/2.f7d3a093.chunk.js",
+    "static/js/2.f7d3a093.chunk.js.map": "/krrishnan/Cribhound/static/js/2.f7d3a093.chunk.js.map",
+    "static/js/3.1598a63c.chunk.js": "/krrishnan/Cribhound/static/js/3.1598a63c.chunk.js",
+    "static/js/3.1598a63c.chunk.js.map": "/krrishnan/Cribhound/static/js/3.1598a63c.chunk.js.map",
+    "index.html": "/krrishnan/Cribhound/index.html",
+    "static/css/2.450bcdb5.chunk.css.map": "/krrishnan/Cribhound/static/css/2.450bcdb5.chunk.css.map",
+    "static/css/main.7bc8377e.chunk.css.map": "/krrishnan/Cribhound/static/css/main.7bc8377e.chunk.css.map",
+    "static/js/2.f7d3a093.chunk.js.LICENSE.txt": "/krrishnan/Cribhound/static/js/2.f7d3a093.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b32f0bbc.js",
+    "static/css/2.450bcdb5.chunk.css",
+    "static/js/2.f7d3a093.chunk.js",
+    "static/css/main.7bc8377e.chunk.css",
+    "static/js/main.5ef15123.chunk.js"
+  ]
+}
